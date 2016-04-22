@@ -16,7 +16,7 @@
   - Mac, Windows, Linux, Android, iOSほか、OSは問わない
   - HDMIポートまたはMini Displayポートが必要
 - **B. 配信用PC(要持込・発表用と兼用可):**
-  - Mac または Windows
+  - Mac, Windows または Linux
   - USB3.0対応のポートが必要
   - 汎用のUSB Video Class機器として認識されるため、ドライバのインストールは不要
 
@@ -102,4 +102,4 @@ iPodをオーディオミキサの3番につなぐ場合
 
 ## 機材リスト
 
-(準備中)
+[設置されている機材についてはこちら](devices.md)
