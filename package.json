@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "bin": "bin/index.js",
   "scripts": {
+    "deploy": "gh-pages -d public",
     "build": "bin/index.js -c config.json",
     "watch": "bin/index.js -c config.json -w",
     "server": "browser-sync start --files 'public/**' --server 'public'",
@@ -19,6 +20,7 @@
     "cpy": "^4.0.0",
     "cssnano": "^3.5.2",
     "fs-promise": "^0.5.0",
+    "gh-pages": "^0.11.0",
     "mustache": "^2.2.1",
     "normalize.css": "^4.0.0",
     "postcss": "^5.0.19",
