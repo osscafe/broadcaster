@@ -15,6 +15,5 @@ riot.mixin(mixin)
 // routings
 view.mount('#container')
   .route('/', 'layout-slide', { action: Slide })
-  .route('*', 'layout-slide', { action: Slide })
 
 route.start(true)
