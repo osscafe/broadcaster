@@ -1,0 +1,5 @@
+{
+  "output": "public",
+  "base_url": "",
+  "api_url": "https://osscafe-broadcaster.firebaseio.com"
+}

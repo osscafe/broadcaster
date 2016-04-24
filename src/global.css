@@ -1,0 +1,13 @@
+/* reset */
+@import url('normalize.css');
+
+/* Noto Font */
+@import url('http://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
+
+html, body {
+  position: absolute;
+  background: #0f0;
+  font-color: white;
+  height: 100%;
+  width: 100%;
+}
